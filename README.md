@@ -1,4 +1,4 @@
-# Yoti NodeJS SDK
+Yoti NodeJS SDK
 
 [![Build Status](https://travis-ci.com/getyoti/yoti-node-sdk.svg?branch=master)](https://travis-ci.com/getyoti/yoti-node-sdk)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=getyoti%3Anode&metric=coverage)](https://sonarcloud.io/dashboard?id=getyoti%3Anode)
